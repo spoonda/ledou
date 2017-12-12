@@ -1,0 +1,29 @@
+[2017-10-14 11:28:53] [INFO] Get domain: gxpan.cn record list success
+[2017-10-14 11:28:53] [WARNING] Domain:loginpay-test-subway.gxpan.cn no record
+[2017-10-14 11:28:54] [INFO] success add domain:loginpay-test-subway.gxpan.cn
+[2017-10-14 11:28:54] [INFO] remark gxpan.cn 326235466 success
+[2017-10-14 11:28:54] [INFO] Get domain: gxpan.cn record list success
+[2017-10-14 11:28:54] [WARNING] Domain:loginpay-test-templerun2.gxpan.cn no record
+[2017-10-14 11:28:54] [INFO] success add domain:loginpay-test-templerun2.gxpan.cn
+[2017-10-14 11:28:54] [INFO] remark gxpan.cn 326235470 success
+[2017-10-14 17:38:51] [INFO] Get domain: ldoverseas.com record list success
+[2017-10-14 17:38:51] [INFO] Domain:andya-gameserver-hmzq.ldoverseas.com get record
+[2017-10-14 17:38:51] [ERROR] record exists
+[2017-10-14 17:38:52] [INFO] Get domain: ldoverseas.com record list success
+[2017-10-14 17:38:52] [INFO] Domain:common-manage-hmzq.ldoverseas.com get record
+[2017-10-14 17:38:52] [ERROR] record exists
+[2017-10-14 17:38:52] [INFO] Get domain: ldoverseas.com record list success
+[2017-10-14 17:38:52] [INFO] Domain:common-account-hmzq.ldoverseas.com get record
+[2017-10-14 17:38:52] [ERROR] record exists
+[2017-10-14 17:42:06] [INFO] Get domain: ldoverseas.com record list success
+[2017-10-14 17:42:06] [WARNING] Domain:andya-gameserver-hmzq.ldoverseas.com no record
+[2017-10-14 17:42:06] [INFO] success add domain:andya-gameserver-hmzq.ldoverseas.com
+[2017-10-14 17:42:06] [INFO] remark ldoverseas.com 326274118 success
+[2017-10-14 17:42:06] [INFO] Get domain: ldoverseas.com record list success
+[2017-10-14 17:42:06] [WARNING] Domain:common-manage-hmzq.ldoverseas.com no record
+[2017-10-14 17:42:07] [INFO] success add domain:common-manage-hmzq.ldoverseas.com
+[2017-10-14 17:42:07] [INFO] remark ldoverseas.com 326274120 success
+[2017-10-14 17:42:07] [INFO] Get domain: ldoverseas.com record list success
+[2017-10-14 17:42:07] [WARNING] Domain:common-account-hmzq.ldoverseas.com no record
+[2017-10-14 17:42:07] [INFO] success add domain:common-account-hmzq.ldoverseas.com
+[2017-10-14 17:42:07] [INFO] remark ldoverseas.com 326274122 success

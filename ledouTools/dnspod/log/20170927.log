@@ -1,0 +1,496 @@
+[2017-09-27 00:12:48] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:12:48] [INFO] Domain:ssh.pandachun.com get record
+[2017-09-27 00:13:00] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:13:00] [INFO] Domain:ssh.pandachun.com get record
+[2017-09-27 00:14:51] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:14:51] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:14:51] [ERROR] record exists
+[2017-09-27 00:15:36] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:15:36] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:15:36] [ERROR] record exists
+[2017-09-27 00:16:33] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:16:33] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:17:47] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:17:47] [INFO] Domain:test.pandachun.com get record
+[2017-09-27 00:17:47] [ERROR] record exists
+[2017-09-27 00:19:19] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:19:19] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:21:37] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:21:37] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:24:30] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:24:30] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:24:30] [INFO] success add domain:test.pandachun.com
+[2017-09-27 00:46:57] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:46:57] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:46:58] [INFO] success add domain:test.pandachun.com
+[2017-09-27 00:46:58] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:46:58] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 00:46:59] [INFO] success add domain:test2.pandachun.com
+[2017-09-27 00:46:59] [INFO] remark pandachun.com 324030100success
+[2017-09-27 00:52:22] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:52:22] [WARNING] Domain:test.pandachun.com no record
+[2017-09-27 00:52:22] [INFO] success add domain:test.pandachun.com
+[2017-09-27 00:52:23] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 00:52:23] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 00:52:23] [INFO] success add domain:test2.pandachun.com
+[2017-09-27 00:52:24] [INFO] remark pandachun.com 324031188 success
+[2017-09-27 01:40:48] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 01:40:48] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 01:40:49] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 01:40:49] [INFO] remark pandachun.com 324038384 success
+[2017-09-27 01:40:50] [ERROR] Get domain: gxpan.cn record list success
+[2017-09-27 01:44:33] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 01:44:33] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 01:44:34] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 01:44:34] [INFO] remark pandachun.com 324038899 success
+[2017-09-27 01:44:35] [ERROR] Get domain: gxpan.cn record list faild
+[2017-09-27 01:46:24] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 01:46:24] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 01:46:26] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 01:46:26] [INFO] remark pandachun.com 324039182 success
+[2017-09-27 01:46:27] [ERROR] Get domain: gxpan.cn record list faild 域名不在您或您用户的名下或您没有权限进行此操作
+[2017-09-27 01:47:18] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 01:47:18] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 01:47:18] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 01:47:19] [INFO] remark pandachun.com 324039275 success
+[2017-09-27 01:47:19] [ERROR] Get domain: gxpan.cn record list faild 域名不在您或您用户的名下或您没有权限进行此操作
+[2017-09-27 01:49:48] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:48] [WARNING] Domain:gs123-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:48] [INFO] success add domain:gs123-ios.sds.gxpan.cn
+[2017-09-27 01:49:49] [INFO] remark gxpan.cn 324039594 success
+[2017-09-27 01:49:49] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:49] [WARNING] Domain:gs124-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:50] [INFO] success add domain:gs124-ios.sds.gxpan.cn
+[2017-09-27 01:49:50] [INFO] remark gxpan.cn 324039599 success
+[2017-09-27 01:49:50] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:50] [WARNING] Domain:gs125-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:52] [INFO] success add domain:gs125-ios.sds.gxpan.cn
+[2017-09-27 01:49:52] [INFO] remark gxpan.cn 324039604 success
+[2017-09-27 01:49:52] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:52] [WARNING] Domain:gs126-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:53] [INFO] success add domain:gs126-ios.sds.gxpan.cn
+[2017-09-27 01:49:54] [INFO] remark gxpan.cn 324039617 success
+[2017-09-27 01:49:54] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:54] [WARNING] Domain:gs127-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:54] [INFO] success add domain:gs127-ios.sds.gxpan.cn
+[2017-09-27 01:49:55] [INFO] remark gxpan.cn 324039622 success
+[2017-09-27 01:49:55] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:55] [WARNING] Domain:gs128-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:56] [INFO] success add domain:gs128-ios.sds.gxpan.cn
+[2017-09-27 01:49:56] [INFO] remark gxpan.cn 324039628 success
+[2017-09-27 01:49:56] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:56] [WARNING] Domain:gs129-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:57] [INFO] success add domain:gs129-ios.sds.gxpan.cn
+[2017-09-27 01:49:57] [INFO] remark gxpan.cn 324039632 success
+[2017-09-27 01:49:58] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:58] [WARNING] Domain:gs130-ios.sds.gxpan.cn no record
+[2017-09-27 01:49:58] [INFO] success add domain:gs130-ios.sds.gxpan.cn
+[2017-09-27 01:49:59] [INFO] remark gxpan.cn 324039640 success
+[2017-09-27 01:49:59] [INFO] Get domain: gxpan.cn record list success
+[2017-09-27 01:49:59] [WARNING] Domain:gs131-ios.sds.gxpan.cn no record
+[2017-09-27 01:50:00] [INFO] success add domain:gs131-ios.sds.gxpan.cn
+[2017-09-27 01:50:00] [INFO] remark gxpan.cn 324039648 success
+[2017-09-27 01:55:33] [INFO] Get domain: ldoverseas.com record list success
+[2017-09-27 01:55:33] [WARNING] Domain:yfb-gameserver-hmzq.ldoverseas.com no record
+[2017-09-27 01:55:33] [INFO] success add domain:yfb-gameserver-hmzq.ldoverseas.com
+[2017-09-27 01:55:34] [INFO] remark ldoverseas.com 324040566 success
+[2017-09-27 01:55:34] [INFO] Get domain: ldoverseas.com record list success
+[2017-09-27 01:55:34] [WARNING] Domain:iosh-gameserver-hmzq.ldoverseas.com no record
+[2017-09-27 01:55:35] [INFO] success add domain:iosh-gameserver-hmzq.ldoverseas.com
+[2017-09-27 01:55:35] [INFO] remark ldoverseas.com 324040570 success
+[2017-09-27 21:20:33] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:20:33] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:20:33] [ERROR] faild delete domain:test3.pandachun.com. 记录编号错误
+[2017-09-27 21:27:32] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:27:32] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:27:32] [ERROR] faild delete domain:test3.pandachun.com. 记录编号错误
+[2017-09-27 21:28:11] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:28:11] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:28:11] [ERROR] faild delete domain:test3.pandachun.com. 记录编号错误
+[2017-09-27 21:29:19] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:29:19] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:29:22] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:30:25] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:30:25] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:30:25] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:30:25] [ERROR] catch exception 'record'
+[2017-09-27 21:34:26] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:34:26] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:34:28] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:34:28] [ERROR] catch exception 'record'
+[2017-09-27 21:41:52] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:41:52] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:41:52] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:41:52] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:43:14] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:43:14] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:43:14] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:43:14] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:46:01] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:46:01] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:46:01] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:46:01] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:49:51] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:49:51] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:49:52] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:49:52] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:51:32] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:51:32] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:51:33] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:51:33] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:52:13] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:52:13] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:52:14] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:52:14] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:53:36] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:53:36] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:53:36] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 21:53:36] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:56:01] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:56:01] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:56:01] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:57:06] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:57:06] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:57:06] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:58:12] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:58:12] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:58:12] [ERROR] catch del_rec exception 'record'
+[2017-09-27 21:59:36] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 21:59:36] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 21:59:37] [ERROR] catch del_rec exception 'record'
+[2017-09-27 22:00:36] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:00:36] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 22:00:36] [ERROR] catch del_rec exception 'record'
+[2017-09-27 22:04:07] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:04:07] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 22:04:07] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 22:04:07] [INFO] del domain:test3.pandachun.comsuccess
+[2017-09-27 22:06:23] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:06:23] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 22:06:26] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 22:06:26] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 22:06:26] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 22:09:18] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:09:18] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:09:20] [INFO] success delete domain:test1.pandachun.com record
+[2017-09-27 22:09:20] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 22:09:20] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 22:12:02] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:12:02] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:12:02] [INFO] success delete domain:test1.pandachun.com record
+[2017-09-27 22:12:02] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 22:12:02] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 22:15:57] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:15:57] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:15:57] [ERROR] faild delete domain:test1.pandachun.com. 记录编号错误
+[2017-09-27 22:15:58] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:15:58] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 22:15:58] [ERROR] record does not exists, cannot delete
+[2017-09-27 22:15:58] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:15:58] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 22:15:58] [ERROR] record does not exists, cannot delete
+[2017-09-27 22:16:54] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:16:54] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:16:54] [ERROR] faild delete domain:test1.pandachun.com. 记录编号错误
+[2017-09-27 22:16:54] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:16:54] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 22:16:54] [ERROR] record does not exists, cannot delete
+[2017-09-27 22:16:54] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:16:54] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 22:16:54] [ERROR] record does not exists, cannot delete
+[2017-09-27 22:23:46] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:23:46] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:23:46] [ERROR] faild delete domain:test1.pandachun.com. 记录编号错误
+[2017-09-27 22:24:34] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:24:34] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:24:34] [ERROR] faild delete domain:test1.pandachun.com. 记录编号错误
+[2017-09-27 22:25:07] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:25:07] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:25:08] [ERROR] faild delete domain:test1.pandachun.com. 记录编号错误
+[2017-09-27 22:25:23] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:25:23] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:25:23] [ERROR] faild delete domain:test1.pandachun.com. 记录编号错误
+[2017-09-27 22:27:54] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:27:54] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:27:54] [INFO] success delete domain:test1.pandachun.com record
+[2017-09-27 22:27:54] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 22:27:54] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 22:34:05] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:05] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 22:34:05] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 22:34:43] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:43] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 22:34:43] [INFO] success add domain:test1.pandachun.com
+[2017-09-27 22:34:44] [INFO] remark pandachun.com 324266151 success
+[2017-09-27 22:34:44] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:44] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 22:34:45] [INFO] success add domain:test2.pandachun.com
+[2017-09-27 22:34:45] [INFO] remark pandachun.com 324266156 success
+[2017-09-27 22:34:45] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:45] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 22:34:46] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 22:34:46] [INFO] remark pandachun.com 324266159 success
+[2017-09-27 22:34:46] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:46] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 22:34:46] [INFO] success add domain:test4.pandachun.com
+[2017-09-27 22:34:46] [INFO] remark pandachun.com 324266164 success
+[2017-09-27 22:34:46] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:46] [WARNING] Domain:test5.pandachun.com no record
+[2017-09-27 22:34:47] [INFO] success add domain:test5.pandachun.com
+[2017-09-27 22:34:47] [INFO] remark pandachun.com 324266167 success
+[2017-09-27 22:34:47] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:34:47] [WARNING] Domain:test6.pandachun.com no record
+[2017-09-27 22:34:47] [INFO] success add domain:test6.pandachun.com
+[2017-09-27 22:34:47] [INFO] remark pandachun.com 324266170 success
+[2017-09-27 22:38:55] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:38:55] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 22:38:55] [INFO] success delete domain:test1.pandachun.com record
+[2017-09-27 22:38:55] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 22:38:55] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 22:59:30] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:59:30] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 22:59:30] [ERROR] record does not exists, cannot delete
+[2017-09-27 22:59:30] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 22:59:30] [INFO] Domain:test2.pandachun.com get record
+[2017-09-27 22:59:33] [INFO] success delete domain:test2.pandachun.com record
+[2017-09-27 22:59:33] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 22:59:33] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:17:00] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:17:00] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:17:00] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:17:00] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:17:00] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:17:00] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:17:00] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:17:00] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 23:17:00] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 23:17:00] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:17:00] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:24:05] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:24:05] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:24:05] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:24:05] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:24:05] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:24:05] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:24:06] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:24:06] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:24:06] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:24:06] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:24:06] [INFO] Domain:test4.pandachun.com get record
+[2017-09-27 23:24:06] [INFO] success delete domain:test4.pandachun.com record
+[2017-09-27 23:24:06] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:24:06] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:25:37] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:25:37] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:25:37] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:25:37] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:25:37] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:25:37] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:25:37] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:25:37] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:25:37] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:25:37] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:25:37] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 23:25:37] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:25:37] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:25:37] [INFO] Domain:test5.pandachun.com get record
+[2017-09-27 23:25:37] [INFO] success delete domain:test5.pandachun.com record
+[2017-09-27 23:25:38] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:25:38] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:26:34] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:26:34] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:26:34] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:26:35] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:26:35] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:26:35] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:26:35] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:26:35] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:26:35] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:26:35] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:26:35] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 23:26:35] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:26:35] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:26:35] [WARNING] Domain:test5.pandachun.com no record
+[2017-09-27 23:26:35] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:26:35] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:26:35] [INFO] Domain:test6.pandachun.com get record
+[2017-09-27 23:26:37] [INFO] success delete domain:test6.pandachun.com record
+[2017-09-27 23:27:16] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:27:16] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:27:16] [INFO] success add domain:test1.pandachun.com
+[2017-09-27 23:27:16] [INFO] remark pandachun.com 324276476 success
+[2017-09-27 23:27:16] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:27:16] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:27:16] [INFO] success add domain:test2.pandachun.com
+[2017-09-27 23:27:17] [INFO] remark pandachun.com 324276477 success
+[2017-09-27 23:27:17] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:27:17] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:27:17] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 23:27:17] [INFO] remark pandachun.com 324276478 success
+[2017-09-27 23:27:17] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:27:17] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 23:27:17] [INFO] success add domain:test4.pandachun.com
+[2017-09-27 23:27:18] [INFO] remark pandachun.com 324276479 success
+[2017-09-27 23:27:18] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:27:18] [WARNING] Domain:test5.pandachun.com no record
+[2017-09-27 23:27:18] [INFO] success add domain:test5.pandachun.com
+[2017-09-27 23:27:18] [INFO] remark pandachun.com 324276480 success
+[2017-09-27 23:27:18] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:27:18] [WARNING] Domain:test6.pandachun.com no record
+[2017-09-27 23:27:19] [INFO] success add domain:test6.pandachun.com
+[2017-09-27 23:27:19] [INFO] remark pandachun.com 324276481 success
+[2017-09-27 23:28:13] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:28:13] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 23:28:13] [INFO] success delete domain:test1.pandachun.com record
+[2017-09-27 23:28:13] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:28:13] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:32:01] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:32:01] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:32:01] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:32:01] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:32:01] [INFO] Domain:test2.pandachun.com get record
+[2017-09-27 23:32:01] [INFO] success delete domain:test2.pandachun.com record
+[2017-09-27 23:32:01] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:32:01] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:33:40] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:33:40] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:33:40] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:33:40] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:33:40] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:33:40] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:33:41] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:33:41] [INFO] Domain:test3.pandachun.com get record
+[2017-09-27 23:33:41] [INFO] success delete domain:test3.pandachun.com record
+[2017-09-27 23:33:41] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:33:41] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:34:07] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:34:07] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:34:07] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:34:08] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:34:08] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:34:08] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:34:08] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:34:08] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:34:08] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:34:08] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:34:08] [INFO] Domain:test4.pandachun.com get record
+[2017-09-27 23:34:08] [INFO] success delete domain:test4.pandachun.com record
+[2017-09-27 23:34:08] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:34:08] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:41:19] [ERROR] catch del_rec exception 'sub_domain'
+[2017-09-27 23:41:57] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:41:57] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:41:57] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:41:57] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:41:57] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:41:57] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:41:58] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:41:58] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:41:58] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:41:58] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:41:58] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 23:41:58] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:41:58] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:41:58] [INFO] Domain:test5.pandachun.com get record
+[2017-09-27 23:41:59] [INFO] success delete domain:test5.pandachun.com record
+[2017-09-27 23:41:59] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:41:59] [ERROR] catch del_rec exception object of type 'NoneType' has no len()
+[2017-09-27 23:46:38] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:46:38] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:46:38] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:46:38] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:46:38] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:46:38] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:46:38] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:46:38] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:46:38] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:46:39] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:46:39] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 23:46:39] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:46:39] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:46:39] [WARNING] Domain:test5.pandachun.com no record
+[2017-09-27 23:46:39] [ERROR] record does not exists, cannot delete
+[2017-09-27 23:46:39] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:46:39] [INFO] Domain:test6.pandachun.com get record
+[2017-09-27 23:46:41] [INFO] success delete domain:test6.pandachun.com record
+[2017-09-27 23:48:08] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:08] [WARNING] Domain:test1.pandachun.com no record
+[2017-09-27 23:48:08] [INFO] success add domain:test1.pandachun.com
+[2017-09-27 23:48:09] [INFO] remark pandachun.com 324279405 success
+[2017-09-27 23:48:09] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:09] [WARNING] Domain:test2.pandachun.com no record
+[2017-09-27 23:48:09] [INFO] success add domain:test2.pandachun.com
+[2017-09-27 23:48:09] [INFO] remark pandachun.com 324279406 success
+[2017-09-27 23:48:09] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:09] [WARNING] Domain:test3.pandachun.com no record
+[2017-09-27 23:48:09] [INFO] success add domain:test3.pandachun.com
+[2017-09-27 23:48:10] [INFO] remark pandachun.com 324279407 success
+[2017-09-27 23:48:10] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:10] [WARNING] Domain:test4.pandachun.com no record
+[2017-09-27 23:48:10] [INFO] success add domain:test4.pandachun.com
+[2017-09-27 23:48:10] [INFO] remark pandachun.com 324279408 success
+[2017-09-27 23:48:10] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:10] [WARNING] Domain:test5.pandachun.com no record
+[2017-09-27 23:48:11] [INFO] success add domain:test5.pandachun.com
+[2017-09-27 23:48:11] [INFO] remark pandachun.com 324279409 success
+[2017-09-27 23:48:11] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:11] [WARNING] Domain:test6.pandachun.com no record
+[2017-09-27 23:48:11] [INFO] success add domain:test6.pandachun.com
+[2017-09-27 23:48:11] [INFO] remark pandachun.com 324279410 success
+[2017-09-27 23:48:11] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:11] [WARNING] Domain:test7.pandachun.com no record
+[2017-09-27 23:48:12] [INFO] success add domain:test7.pandachun.com
+[2017-09-27 23:48:12] [INFO] remark pandachun.com 324279411 success
+[2017-09-27 23:48:12] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:12] [WARNING] Domain:test8.pandachun.com no record
+[2017-09-27 23:48:12] [INFO] success add domain:test8.pandachun.com
+[2017-09-27 23:48:12] [INFO] remark pandachun.com 324279414 success
+[2017-09-27 23:48:13] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:13] [WARNING] Domain:test9.pandachun.com no record
+[2017-09-27 23:48:13] [INFO] success add domain:test9.pandachun.com
+[2017-09-27 23:48:13] [INFO] remark pandachun.com 324279416 success
+[2017-09-27 23:48:13] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:13] [WARNING] Domain:test10.pandachun.com no record
+[2017-09-27 23:48:13] [INFO] success add domain:test10.pandachun.com
+[2017-09-27 23:48:13] [INFO] remark pandachun.com 324279417 success
+[2017-09-27 23:48:13] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:13] [WARNING] Domain:test11.pandachun.com no record
+[2017-09-27 23:48:13] [INFO] success add domain:test11.pandachun.com
+[2017-09-27 23:48:14] [INFO] remark pandachun.com 324279418 success
+[2017-09-27 23:48:14] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:14] [WARNING] Domain:test12.pandachun.com no record
+[2017-09-27 23:48:14] [INFO] success add domain:test12.pandachun.com
+[2017-09-27 23:48:14] [INFO] remark pandachun.com 324279419 success
+[2017-09-27 23:48:14] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:14] [WARNING] Domain:test13.pandachun.com no record
+[2017-09-27 23:48:15] [INFO] success add domain:test13.pandachun.com
+[2017-09-27 23:48:15] [INFO] remark pandachun.com 324279420 success
+[2017-09-27 23:48:15] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:15] [WARNING] Domain:test14.pandachun.com no record
+[2017-09-27 23:48:16] [INFO] success add domain:test14.pandachun.com
+[2017-09-27 23:48:17] [INFO] remark pandachun.com 324279421 success
+[2017-09-27 23:48:17] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:17] [WARNING] Domain:test15.pandachun.com no record
+[2017-09-27 23:48:19] [INFO] success add domain:test15.pandachun.com
+[2017-09-27 23:48:19] [INFO] remark pandachun.com 324279422 success
+[2017-09-27 23:48:19] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:19] [WARNING] Domain:test16.pandachun.com no record
+[2017-09-27 23:48:21] [INFO] success add domain:test16.pandachun.com
+[2017-09-27 23:48:21] [INFO] remark pandachun.com 324279424 success
+[2017-09-27 23:48:21] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:21] [WARNING] Domain:test17.pandachun.com no record
+[2017-09-27 23:48:22] [INFO] success add domain:test17.pandachun.com
+[2017-09-27 23:48:22] [INFO] remark pandachun.com 324279425 success
+[2017-09-27 23:48:22] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:22] [WARNING] Domain:test18.pandachun.com no record
+[2017-09-27 23:48:22] [INFO] success add domain:test18.pandachun.com
+[2017-09-27 23:48:23] [INFO] remark pandachun.com 324279426 success
+[2017-09-27 23:48:23] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:48:23] [WARNING] Domain:test19.pandachun.com no record
+[2017-09-27 23:48:23] [INFO] success add domain:test19.pandachun.com
+[2017-09-27 23:48:23] [INFO] remark pandachun.com 324279430 success
+[2017-09-27 23:50:22] [INFO] Get domain: pandachun.com record list success
+[2017-09-27 23:50:22] [INFO] Domain:test1.pandachun.com get record
+[2017-09-27 23:50:23] [INFO] success delete domain:test1.pandachun.com record
+[2017-09-27 23:50:23] [ERROR] Get domain: pandachun.com record list faild 记录列表为空
+[2017-09-27 23:50:23] [ERROR] catch del_rec exception object of type 'NoneType' has no len()

@@ -1,0 +1,174 @@
+[2017-11-13 15:42:44] [INFO] Get domain list success
+[2017-11-13 15:42:44] [INFO] Get domain: tinytv.cn record list success
+[2017-11-13 15:42:44] [INFO] Get domain: ifunsky.com record list success
+[2017-11-13 15:42:44] [INFO] Get domain: iplaygames.cn record list success
+[2017-11-13 15:42:44] [INFO] Get domain: weplaykit.com record list success
+[2017-11-13 15:42:44] [INFO] Get domain: dskycloud.com record list success
+[2017-11-13 15:42:44] [INFO] Get domain: dskypay.com record list success
+[2017-11-13 15:42:45] [INFO] Get domain: gamdream.com record list success
+[2017-11-13 15:42:45] [INFO] Get domain: powerchance.hk record list success
+[2017-11-13 15:42:45] [INFO] Get domain: iguoplay.com record list success
+[2017-11-13 15:42:45] [INFO] Get domain: soundmore.cn record list success
+[2017-11-13 15:42:45] [INFO] Get domain: ldoverseas.com record list success
+[2017-11-13 15:42:45] [INFO] Get domain: ldoverseas.hk record list success
+[2017-11-13 15:42:45] [INFO] Get domain: xspeedsdk.com record list success
+[2017-11-13 15:42:46] [INFO] Get domain: 53.vc record list success
+[2017-11-13 15:42:46] [INFO] Get domain: 1uwan.com record list success
+[2017-11-13 15:42:46] [INFO] Get domain: ttstudio.cc record list success
+[2017-11-13 15:42:46] [INFO] Get domain: near.hk record list success
+[2017-11-13 15:42:47] [INFO] Get domain: skytouch.com.hk record list success
+[2017-11-13 15:42:47] [INFO] Get domain: iecgames.com record list success
+[2017-11-13 15:42:47] [INFO] Get domain: iskytouch.com record list success
+[2017-11-13 15:42:47] [INFO] Get domain: kimilab.com record list success
+[2017-11-13 15:42:47] [INFO] Get domain: iplaychess.cn record list success
+[2017-11-13 15:42:47] [INFO] Get domain: boxapps.cn record list success
+[2017-11-13 15:42:48] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:42:48] [INFO] Get domain: ak47ids.com record list success
+[2017-11-13 15:42:48] [INFO] Get domain: mobgi.com record list success
+[2017-11-13 15:42:48] [INFO] Get domain: idreamsky.com record list success
+[2017-11-13 15:42:48] [INFO] Get domain: uu.cc record list success
+[2017-11-13 15:42:49] [INFO] Get domain: ids111.com record list success
+[2017-11-13 15:42:49] [INFO] Get domain: haozhuan.cc record list success
+[2017-11-13 15:42:49] [INFO] Backup domain: ttstudio.cc records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: iguoplay.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: dskypay.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: ldoverseas.hk records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: weplaykit.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: mobgi.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: xspeedsdk.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: ids111.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: iskytouch.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: boxapps.cn records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: iplaygames.cn records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: iecgames.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: iplaychess.cn records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: uu.cc records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: 53.vc records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: soundmore.cn records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: kimilab.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: tinytv.cn records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: haozhuan.cc records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: gamdream.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: near.hk records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: gxpan.cn records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: dskycloud.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: idreamsky.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: 1uwan.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: ldoverseas.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: ifunsky.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: powerchance.hk records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: ak47ids.com records to local success
+[2017-11-13 15:42:49] [INFO] Backup domain: skytouch.com.hk records to local success
+[2017-11-13 15:42:59] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:42:59] [INFO] Domain:gs99-ios.sds.gxpan.cn get record
+[2017-11-13 15:42:59] [INFO] success delete domain:gs99-ios.sds.gxpan.cn record
+[2017-11-13 15:42:59] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:42:59] [INFO] Domain:gs100-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:00] [INFO] success delete domain:gs100-ios.sds.gxpan.cn record
+[2017-11-13 15:43:00] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:00] [INFO] Domain:gs102-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:00] [INFO] success delete domain:gs102-ios.sds.gxpan.cn record
+[2017-11-13 15:43:01] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:01] [INFO] Domain:gs103-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:01] [INFO] success delete domain:gs103-ios.sds.gxpan.cn record
+[2017-11-13 15:43:02] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:02] [INFO] Domain:gs105-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:02] [INFO] success delete domain:gs105-ios.sds.gxpan.cn record
+[2017-11-13 15:43:03] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:03] [INFO] Domain:gs106-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:03] [INFO] success delete domain:gs106-ios.sds.gxpan.cn record
+[2017-11-13 15:43:03] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:03] [WARNING] Domain:gs089-ios.sds.gxpan.cn no record
+[2017-11-13 15:43:03] [ERROR] record does not exists, cannot delete
+[2017-11-13 15:43:03] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:03] [WARNING] Domain:gs095-ios.sds.gxpan.cn no record
+[2017-11-13 15:43:03] [ERROR] record does not exists, cannot delete
+[2017-11-13 15:43:04] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:04] [INFO] Domain:gs108-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:04] [INFO] success delete domain:gs108-ios.sds.gxpan.cn record
+[2017-11-13 15:43:04] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:04] [INFO] Domain:gs109-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:08] [INFO] success delete domain:gs109-ios.sds.gxpan.cn record
+[2017-11-13 15:43:08] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:08] [INFO] Domain:gs111-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:08] [INFO] success delete domain:gs111-ios.sds.gxpan.cn record
+[2017-11-13 15:43:09] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:09] [INFO] Domain:gs112-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:09] [INFO] success delete domain:gs112-ios.sds.gxpan.cn record
+[2017-11-13 15:43:09] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:09] [INFO] Domain:gs114-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:09] [INFO] success delete domain:gs114-ios.sds.gxpan.cn record
+[2017-11-13 15:43:10] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:10] [INFO] Domain:gs115-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:10] [INFO] success delete domain:gs115-ios.sds.gxpan.cn record
+[2017-11-13 15:43:11] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:11] [INFO] Domain:gs117-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:11] [INFO] success delete domain:gs117-ios.sds.gxpan.cn record
+[2017-11-13 15:43:11] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:11] [INFO] Domain:gs118-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:12] [INFO] success delete domain:gs118-ios.sds.gxpan.cn record
+[2017-11-13 15:43:12] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:12] [INFO] Domain:gs101-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:12] [INFO] success delete domain:gs101-ios.sds.gxpan.cn record
+[2017-11-13 15:43:13] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:13] [INFO] Domain:gs120-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:13] [INFO] success delete domain:gs120-ios.sds.gxpan.cn record
+[2017-11-13 15:43:13] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:13] [INFO] Domain:gs121-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:13] [INFO] success delete domain:gs121-ios.sds.gxpan.cn record
+[2017-11-13 15:43:14] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:14] [INFO] Domain:gs123-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:14] [INFO] success delete domain:gs123-ios.sds.gxpan.cn record
+[2017-11-13 15:43:14] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:43:14] [INFO] Domain:gs124-ios.sds.gxpan.cn get record
+[2017-11-13 15:43:14] [INFO] success delete domain:gs124-ios.sds.gxpan.cn record
+[2017-11-13 15:44:52] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:44:52] [INFO] Domain:gs89-ios.sds.gxpan.cn get record
+[2017-11-13 15:44:52] [INFO] success delete domain:gs89-ios.sds.gxpan.cn record
+[2017-11-13 15:44:52] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:44:52] [INFO] Domain:gs95-ios.sds.gxpan.cn get record
+[2017-11-13 15:44:52] [INFO] success delete domain:gs95-ios.sds.gxpan.cn record
+[2017-11-13 15:45:45] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:45] [WARNING] Domain:gs132-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:46] [INFO] success add domain:gs132-ios.sds.gxpan.cn
+[2017-11-13 15:45:46] [INFO] remark gxpan.cn 330083194 success
+[2017-11-13 15:45:46] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:46] [WARNING] Domain:gs133-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:46] [INFO] success add domain:gs133-ios.sds.gxpan.cn
+[2017-11-13 15:45:46] [INFO] remark gxpan.cn 330083199 success
+[2017-11-13 15:45:46] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:46] [WARNING] Domain:gs134-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:47] [INFO] success add domain:gs134-ios.sds.gxpan.cn
+[2017-11-13 15:45:47] [INFO] remark gxpan.cn 330083210 success
+[2017-11-13 15:45:47] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:47] [WARNING] Domain:gs135-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:47] [INFO] success add domain:gs135-ios.sds.gxpan.cn
+[2017-11-13 15:45:47] [INFO] remark gxpan.cn 330083217 success
+[2017-11-13 15:45:48] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:48] [WARNING] Domain:gs136-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:48] [INFO] success add domain:gs136-ios.sds.gxpan.cn
+[2017-11-13 15:45:48] [INFO] remark gxpan.cn 330083220 success
+[2017-11-13 15:45:48] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:48] [WARNING] Domain:gs137-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:49] [INFO] success add domain:gs137-ios.sds.gxpan.cn
+[2017-11-13 15:45:49] [INFO] remark gxpan.cn 330083226 success
+[2017-11-13 15:45:49] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:49] [WARNING] Domain:gs138-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:49] [INFO] success add domain:gs138-ios.sds.gxpan.cn
+[2017-11-13 15:45:49] [INFO] remark gxpan.cn 330083231 success
+[2017-11-13 15:45:50] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:50] [WARNING] Domain:gs139-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:50] [INFO] success add domain:gs139-ios.sds.gxpan.cn
+[2017-11-13 15:45:50] [INFO] remark gxpan.cn 330083234 success
+[2017-11-13 15:45:50] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:50] [WARNING] Domain:gs140-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:51] [INFO] success add domain:gs140-ios.sds.gxpan.cn
+[2017-11-13 15:45:51] [INFO] remark gxpan.cn 330083243 success
+[2017-11-13 15:45:51] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:51] [WARNING] Domain:gs141-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:52] [INFO] success add domain:gs141-ios.sds.gxpan.cn
+[2017-11-13 15:45:52] [INFO] remark gxpan.cn 330083248 success
+[2017-11-13 15:45:52] [INFO] Get domain: gxpan.cn record list success
+[2017-11-13 15:45:52] [WARNING] Domain:gs142-ios.sds.gxpan.cn no record
+[2017-11-13 15:45:52] [INFO] success add domain:gs142-ios.sds.gxpan.cn
+[2017-11-13 15:45:53] [INFO] remark gxpan.cn 330083260 success

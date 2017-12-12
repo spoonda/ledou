@@ -1,0 +1,25 @@
+[2017-09-28 21:19:46] [ERROR] Get domain: gxpan.cn record list faild 域名不在您或您用户的名下或您没有权限进行此操作
+[2017-09-28 21:20:13] [INFO] Get domain: gxpan.cn record list success
+[2017-09-28 21:20:13] [WARNING] Domain:aisi2-game-xzsj.gxpan.cn no record
+[2017-09-28 21:20:13] [INFO] success add domain:aisi2-game-xzsj.gxpan.cn
+[2017-09-28 21:20:14] [INFO] remark gxpan.cn 324402276 success
+[2017-09-28 21:20:14] [ERROR] Get domain: ldoverseas.com record list faild 记录列表为空
+[2017-09-28 21:22:00] [INFO] Get domain: gxpan.cn record list success
+[2017-09-28 21:22:00] [INFO] Domain:aisi2-game-xzsj.gxpan.cn get record
+[2017-09-28 21:22:00] [ERROR] record exists
+[2017-09-28 21:22:01] [INFO] Get domain: ldoverseas.com record list success
+[2017-09-28 21:22:01] [WARNING] Domain:yfb-account-hmzq.ldoverseas.com no record
+[2017-09-28 21:22:01] [INFO] success add domain:yfb-account-hmzq.ldoverseas.com
+[2017-09-28 21:22:02] [INFO] remark ldoverseas.com 324402875 success
+[2017-09-28 21:22:02] [INFO] Get domain: ldoverseas.com record list success
+[2017-09-28 21:22:02] [WARNING] Domain:yfb-manage-hmzq.ldoverseas.com no record
+[2017-09-28 21:22:02] [INFO] success add domain:yfb-manage-hmzq.ldoverseas.com
+[2017-09-28 21:22:02] [INFO] remark ldoverseas.com 324402887 success
+[2017-09-28 21:22:03] [INFO] Get domain: ldoverseas.com record list success
+[2017-09-28 21:22:03] [WARNING] Domain:iosh-account-hmzq.ldoverseas.com no record
+[2017-09-28 21:22:03] [INFO] success add domain:iosh-account-hmzq.ldoverseas.com
+[2017-09-28 21:22:03] [INFO] remark ldoverseas.com 324402891 success
+[2017-09-28 21:22:03] [INFO] Get domain: ldoverseas.com record list success
+[2017-09-28 21:22:03] [WARNING] Domain:iosh-manage-hmzq.ldoverseas.com no record
+[2017-09-28 21:22:04] [INFO] success add domain:iosh-manage-hmzq.ldoverseas.com
+[2017-09-28 21:22:04] [INFO] remark ldoverseas.com 324402898 success

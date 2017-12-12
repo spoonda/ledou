@@ -1,0 +1,178 @@
+[2017-10-10 01:52:09] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 01:52:09] [WARNING] Domain:login-hc-and-cats.pandachun.com no record
+[2017-10-10 01:52:09] [ERROR] failed add domain:login-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 01:52:09] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 01:52:09] [WARNING] Domain:gs1-hc-and-cats.pandachun.com no record
+[2017-10-10 01:52:09] [ERROR] failed add domain:gs1-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 01:52:09] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 01:52:09] [WARNING] Domain:gs2-hc-and-cats.pandachun.com no record
+[2017-10-10 01:52:09] [ERROR] failed add domain:gs2-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 01:52:09] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 01:52:09] [WARNING] Domain:gs3-hc-and-cats.pandachun.com no record
+[2017-10-10 01:52:10] [ERROR] failed add domain:gs3-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:32:49] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:32:49] [WARNING] Domain:login-hc-and-cats.pandachun.com no record
+[2017-10-10 03:32:50] [ERROR] failed add domain:login-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:32:50] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:32:50] [WARNING] Domain:gs1-hc-and-cats.pandachun.com no record
+[2017-10-10 03:32:50] [ERROR] failed add domain:gs1-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:32:50] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:32:50] [WARNING] Domain:gs2-hc-and-cats.pandachun.com no record
+[2017-10-10 03:32:50] [ERROR] failed add domain:gs2-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:32:50] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:32:50] [WARNING] Domain:gs3-hc-and-cats.pandachun.com no record
+[2017-10-10 03:32:50] [ERROR] failed add domain:gs3-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:35:04] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:35:04] [WARNING] Domain:login-hc-and-cats.pandachun.com no record
+[2017-10-10 03:35:04] [ERROR] failed add domain:login-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:35:04] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:35:04] [WARNING] Domain:gs1-hc-and-cats.pandachun.com no record
+[2017-10-10 03:35:04] [ERROR] failed add domain:gs1-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:35:04] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:35:04] [WARNING] Domain:gs2-hc-and-cats.pandachun.com no record
+[2017-10-10 03:35:05] [ERROR] failed add domain:gs2-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:35:05] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:35:05] [WARNING] Domain:gs3-hc-and-cats.pandachun.com no record
+[2017-10-10 03:35:05] [ERROR] failed add domain:gs3-hc-and-cats.pandachun.com. 域名编号不正确
+[2017-10-10 03:38:46] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:38:46] [WARNING] Domain:login-hc-and-cats.pandachun.com no record
+[2017-10-10 03:38:46] [INFO] success add domain:login-hc-and-cats.pandachun.com
+[2017-10-10 03:38:47] [INFO] remark pandachun.com 325644817 success
+[2017-10-10 03:38:47] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:38:47] [WARNING] Domain:gs1-hc-and-cats.pandachun.com no record
+[2017-10-10 03:38:48] [INFO] success add domain:gs1-hc-and-cats.pandachun.com
+[2017-10-10 03:38:48] [INFO] remark pandachun.com 325644818 success
+[2017-10-10 03:38:48] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:38:48] [WARNING] Domain:gs2-hc-and-cats.pandachun.com no record
+[2017-10-10 03:38:49] [INFO] success add domain:gs2-hc-and-cats.pandachun.com
+[2017-10-10 03:38:49] [INFO] remark pandachun.com 325644819 success
+[2017-10-10 03:38:49] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:38:49] [WARNING] Domain:gs3-hc-and-cats.pandachun.com no record
+[2017-10-10 03:38:49] [INFO] success add domain:gs3-hc-and-cats.pandachun.com
+[2017-10-10 03:38:49] [INFO] remark pandachun.com 325644820 success
+[2017-10-10 03:39:10] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:10] [WARNING] Domain:test1.pandachun.com no record
+[2017-10-10 03:39:10] [ERROR] record does not exists, cannot delete
+[2017-10-10 03:39:10] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:10] [INFO] Domain:test2.pandachun.com get record
+[2017-10-10 03:39:10] [ERROR] failed delete domain:test2.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:10] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:10] [INFO] Domain:test3.pandachun.com get record
+[2017-10-10 03:39:11] [ERROR] failed delete domain:test3.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:11] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:11] [INFO] Domain:test4.pandachun.com get record
+[2017-10-10 03:39:11] [ERROR] failed delete domain:test4.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:11] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:11] [INFO] Domain:test5.pandachun.com get record
+[2017-10-10 03:39:11] [ERROR] failed delete domain:test5.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:11] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:11] [INFO] Domain:test6.pandachun.com get record
+[2017-10-10 03:39:11] [ERROR] failed delete domain:test6.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:11] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:11] [INFO] Domain:test7.pandachun.com get record
+[2017-10-10 03:39:12] [ERROR] failed delete domain:test7.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:12] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:12] [INFO] Domain:test8.pandachun.com get record
+[2017-10-10 03:39:12] [ERROR] failed delete domain:test8.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:12] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:12] [INFO] Domain:test9.pandachun.com get record
+[2017-10-10 03:39:12] [ERROR] failed delete domain:test9.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:12] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:12] [INFO] Domain:test10.pandachun.com get record
+[2017-10-10 03:39:12] [ERROR] failed delete domain:test10.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:13] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:13] [INFO] Domain:test11.pandachun.com get record
+[2017-10-10 03:39:13] [ERROR] failed delete domain:test11.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:13] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:13] [INFO] Domain:test12.pandachun.com get record
+[2017-10-10 03:39:13] [ERROR] failed delete domain:test12.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:13] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:13] [INFO] Domain:test13.pandachun.com get record
+[2017-10-10 03:39:13] [ERROR] failed delete domain:test13.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:13] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:13] [INFO] Domain:test14.pandachun.com get record
+[2017-10-10 03:39:14] [ERROR] failed delete domain:test14.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:14] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:14] [INFO] Domain:test15.pandachun.com get record
+[2017-10-10 03:39:14] [ERROR] failed delete domain:test15.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:14] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:14] [INFO] Domain:test16.pandachun.com get record
+[2017-10-10 03:39:14] [ERROR] failed delete domain:test16.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:14] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:14] [INFO] Domain:test17.pandachun.com get record
+[2017-10-10 03:39:14] [ERROR] failed delete domain:test17.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:14] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:14] [INFO] Domain:test18.pandachun.com get record
+[2017-10-10 03:39:15] [ERROR] failed delete domain:test18.pandachun.com. 域名编号不正确
+[2017-10-10 03:39:15] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:39:15] [INFO] Domain:test19.pandachun.com get record
+[2017-10-10 03:39:15] [ERROR] failed delete domain:test19.pandachun.com. 域名编号不正确
+[2017-10-10 03:40:37] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:37] [WARNING] Domain:test1.pandachun.com no record
+[2017-10-10 03:40:37] [ERROR] record does not exists, cannot delete
+[2017-10-10 03:40:37] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:37] [INFO] Domain:test2.pandachun.com get record
+[2017-10-10 03:40:38] [INFO] success delete domain:test2.pandachun.com record
+[2017-10-10 03:40:39] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:39] [INFO] Domain:test3.pandachun.com get record
+[2017-10-10 03:40:39] [INFO] success delete domain:test3.pandachun.com record
+[2017-10-10 03:40:39] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:39] [INFO] Domain:test4.pandachun.com get record
+[2017-10-10 03:40:39] [INFO] success delete domain:test4.pandachun.com record
+[2017-10-10 03:40:39] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:39] [INFO] Domain:test5.pandachun.com get record
+[2017-10-10 03:40:40] [INFO] success delete domain:test5.pandachun.com record
+[2017-10-10 03:40:40] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:40] [INFO] Domain:test6.pandachun.com get record
+[2017-10-10 03:40:40] [INFO] success delete domain:test6.pandachun.com record
+[2017-10-10 03:40:40] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:40] [INFO] Domain:test7.pandachun.com get record
+[2017-10-10 03:40:41] [INFO] success delete domain:test7.pandachun.com record
+[2017-10-10 03:40:41] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:41] [INFO] Domain:test8.pandachun.com get record
+[2017-10-10 03:40:41] [INFO] success delete domain:test8.pandachun.com record
+[2017-10-10 03:40:41] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:41] [INFO] Domain:test9.pandachun.com get record
+[2017-10-10 03:40:41] [INFO] success delete domain:test9.pandachun.com record
+[2017-10-10 03:40:42] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:42] [INFO] Domain:test10.pandachun.com get record
+[2017-10-10 03:40:42] [INFO] success delete domain:test10.pandachun.com record
+[2017-10-10 03:40:42] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:42] [INFO] Domain:test11.pandachun.com get record
+[2017-10-10 03:40:43] [INFO] success delete domain:test11.pandachun.com record
+[2017-10-10 03:40:43] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:43] [INFO] Domain:test12.pandachun.com get record
+[2017-10-10 03:40:43] [INFO] success delete domain:test12.pandachun.com record
+[2017-10-10 03:40:43] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:43] [INFO] Domain:test13.pandachun.com get record
+[2017-10-10 03:40:44] [INFO] success delete domain:test13.pandachun.com record
+[2017-10-10 03:40:44] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:44] [INFO] Domain:test14.pandachun.com get record
+[2017-10-10 03:40:44] [INFO] success delete domain:test14.pandachun.com record
+[2017-10-10 03:40:44] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:44] [INFO] Domain:test15.pandachun.com get record
+[2017-10-10 03:40:45] [INFO] success delete domain:test15.pandachun.com record
+[2017-10-10 03:40:45] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:45] [INFO] Domain:test16.pandachun.com get record
+[2017-10-10 03:40:45] [INFO] success delete domain:test16.pandachun.com record
+[2017-10-10 03:40:45] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:45] [INFO] Domain:test17.pandachun.com get record
+[2017-10-10 03:40:45] [INFO] success delete domain:test17.pandachun.com record
+[2017-10-10 03:40:46] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:46] [INFO] Domain:test18.pandachun.com get record
+[2017-10-10 03:40:46] [INFO] success delete domain:test18.pandachun.com record
+[2017-10-10 03:40:46] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:40:46] [INFO] Domain:test19.pandachun.com get record
+[2017-10-10 03:40:46] [INFO] success delete domain:test19.pandachun.com record
+[2017-10-10 03:42:16] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:42:16] [INFO] Domain:login-hc-and-cats.pandachun.com get record
+[2017-10-10 03:42:17] [INFO] success delete domain:login-hc-and-cats.pandachun.com record
+[2017-10-10 03:42:17] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:42:17] [INFO] Domain:gs1-hc-and-cats.pandachun.com get record
+[2017-10-10 03:42:18] [INFO] success delete domain:gs1-hc-and-cats.pandachun.com record
+[2017-10-10 03:42:18] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:42:18] [INFO] Domain:gs2-hc-and-cats.pandachun.com get record
+[2017-10-10 03:42:18] [INFO] success delete domain:gs2-hc-and-cats.pandachun.com record
+[2017-10-10 03:42:18] [INFO] Get domain: pandachun.com record list success
+[2017-10-10 03:42:18] [INFO] Domain:gs3-hc-and-cats.pandachun.com get record
+[2017-10-10 03:42:19] [INFO] success delete domain:gs3-hc-and-cats.pandachun.com record
