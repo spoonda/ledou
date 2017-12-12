@@ -1,0 +1,35 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.13 (D:\Program Files\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="D:\Program Files\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Program Files/Python27/DLLs" />
+            <root type="simple" url="file://D:/Program Files/Python27/Lib" />
+            <root type="simple" url="file://D:/Program Files/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Program Files/Python27" />
+            <root type="simple" url="file://D:/Program Files/Python27/Lib/site-packages" />
+            <root type="simple" url="file://D:/Program Files/Python27/Lib/site-packages/requests-2.18.4-py2.7.egg" />
+            <root type="simple" url="file://D:/Program Files/Python27/Lib/site-packages/certifi-2017.7.27.1-py2.7.egg" />
+            <root type="simple" url="file://D:/Program Files/Python27/Lib/site-packages/urllib3-1.22-py2.7.egg" />
+            <root type="simple" url="jar://D:/Program Files/Python27/Lib/site-packages/chardet-3.0.4-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1252619969" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

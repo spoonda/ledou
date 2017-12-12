@@ -1,0 +1,6 @@
+<code_scheme name="Default">
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <codeStyleSettings language="Python">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
